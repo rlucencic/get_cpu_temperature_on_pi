@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FZZNtNTefWQI3B6Juhdes30C+e49cAdviDu/uLbaTHqSID7vc2nme9L6T5FT3k9HQMLyGNEGrkeTEf0qM0Vphg==",
+  "dgSpecHash": "bXp1cVdWNfE7jyQSb14ROaBUvxrF8gfycrkcZAU3ALMsHleVEgyA/ecmDmrfJ5uTHRkha7Lj3hmbispoFnT5Ag==",
   "success": true,
   "projectFilePath": "/home/robert/Documents/GetCpuTemperatureOnPi/GetCpuTemperatureOnPi.csproj",
   "expectedPackageFiles": [
