@@ -1,5 +1,3 @@
-using System;
-using System.Threading;
 using Iot.Device.CpuTemperature;
 
 using var cpuTemperature = new CpuTemperature();
