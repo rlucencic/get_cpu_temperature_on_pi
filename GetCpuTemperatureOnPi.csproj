@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="DotnetBleServer" Version="0.1.0-snapshot" />
     <PackageReference Include="Iot.Device.Bindings" Version="2.2.0" />
     <PackageReference Include="System.Device.Gpio" Version="2.2.0" />
   </ItemGroup>
